@@ -358,7 +358,7 @@ function App() {
             💡
           </Fab>
         </Tooltip>
-      </Box>
+      </Box
 
       <style>{`
         @keyframes float {
